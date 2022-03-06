@@ -8,7 +8,7 @@ These formatting codes are inspired by the ones used in [Minecraft](https://mine
 
 16 colors are available:
 
-![colors](./colors.png)
+![colors](https://raw.githubusercontent.com/fr-Pursuit/sformat/master/colors.png)
 
 To set the background color, prefix the color letter with `g` (ex: `§g1` for a blue background)
 
