@@ -46,4 +46,4 @@ print(colored_text)  # The text will be displayed in color
 
 ## License
 
-This project is licensed under the [GNU GPLv3 license](/./LICENSE).
+This project is licensed under the [GNU GPLv3 license](https://github.com/fr-Pursuit/sformat/blob/master/LICENSE).
