@@ -15,7 +15,7 @@ setup(
     description='Format an input stream using the section character',
     long_description=(directory / "README.md").read_text(encoding="utf-8"),
     long_description_content_type='text/markdown',
-    url='https://github.com/',
+    url='https://github.com/fr-Pursuit/sformat',
     license='GNU General Public License v3 (GPLv3)',
     classifiers=[
         "Programming Language :: Python :: 3",
